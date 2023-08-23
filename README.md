@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Links
 
-- [Solution](https://github.com/majaton44/nft-preview-card-component)
+- [Solution](https://github.com/majaton44/nft-preview-card-component-main)
 - [Live version](https://rainbow-nft-preview-card.netlify.app/)
 
 ## My process
